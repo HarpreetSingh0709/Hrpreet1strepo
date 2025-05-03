@@ -1,3 +1,3 @@
 # Hrpreet1strepo
 this is my 1st githup repo
-author: harpreet singh 
+author: Harpreet singh 
